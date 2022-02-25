@@ -8,7 +8,6 @@ echo $pass_hash
 echo
 echo "Attempting to crack password:"
 
-password_cracked=false
 
 start=`date +%s`
 
