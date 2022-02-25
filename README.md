@@ -1,7 +1,8 @@
 # bash-password-cracker
 A brute forcing tool for cracking a given password made with Bash scripting. Developed for demonstration purposes.
 
-Usage: passcrack.sh [password]
+**Usage:** <br>
+passcrack.sh [password]
 <br>
 <br>
 
